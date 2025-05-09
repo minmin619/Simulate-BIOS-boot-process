@@ -6,10 +6,16 @@
 - Main function: Display simple startup messages and hardware initialization status.
 
 Development Environment:
+
 Operating system: Linux (Ubuntu)
+
 Compilation tools: GCC, NASM (assembler)
+
 Emulator: QEMU
+
 Debugging tools: GDB
+
 Version Control: Git
+
 ![image](https://github.com/user-attachments/assets/d5450554-e704-4b58-9496-577cc94214bf)
 
