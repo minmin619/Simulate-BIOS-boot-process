@@ -4,7 +4,6 @@
 - Use QEMU to simulate the hardware environment and write the BIOS program in C language.
 
 - Main function: Display simple startup messages and hardware initialization status.
-  ![image](https://github.com/user-attachments/assets/0590b0ee-d8a2-42b6-8286-2b8500eda4fe)
 
 
 #Mainly implement the intermediate Bootloader part
