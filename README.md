@@ -20,5 +20,6 @@ Compilation tools: GCC, NASM (assembler)
 Emulator: QEMU
 
 #Simulation Results:
-![image](https://github.com/user-attachments/assets/d5450554-e704-4b58-9496-577cc94214bf)
+![image](https://github.com/user-attachments/assets/6a6bfc7a-6ebc-45a2-8520-871f475e7841)
+
 
