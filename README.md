@@ -1,7 +1,7 @@
 # Simulate-BIOS-boot-process
 - Implements basic BIOS boot process simulation, including hardware initialization and boot loader.
 
-- Use QEMU to simulate the hardware environment and write the BIOS program in C language.
+- Use QEMU to simulate the hardware environment and write the BIOS program in X86 assembly language.
 
 - Main function: Display simple startup messages and hardware initialization status.
 
